@@ -1,11 +1,11 @@
-53b0b26d431370669fdee88b445bb1c8 *DESCRIPTION
+f55af6a128415647e9c5a8ba942f270d *DESCRIPTION
 378d3570524f47dee49ff6ad878eef58 *NAMESPACE
 3b8fc5c8408a586705678f01b6754296 *R/P2L2.R
 a8fb2f218b7b12c88d2b515ed24799c4 *R/RcppExports.R
 cc45f73c918a543c50d5248101c6daad *R/print.rCRM.R
 1c590bca7ebfd4c7f59f69d2732af694 *R/rCRM.R
-e2d5f70b904da2f35602a20b49e4b2b4 *inst/include/rCRM.h
-a59b29d255c63d5ae775ccbb41ce10fe *inst/include/rCRM_RcppExports.h
+ec0061dd4420e1edbdcf6019ea6e5e9b *inst/include/rCRM.h
+4665f736c78803023405255eee1c8bed *inst/include/rCRM_RcppExports.h
 07e31b7e3a0cc49f344fddd53eec3060 *man/print.rCRM.Rd
 79eef6059cad7911d8226cd207cd3ee8 *man/rCRM-package.Rd
 f8d6a70039e7b7afc02d3cbbce1d303f *man/rCRM.Rd
